@@ -34,7 +34,6 @@ public class ArrayListPgm {
 		 * 
 		 * 8)int lastIndex(Object o) - Displays the last occurrence index of the object
 		 * 
-		 * 
 		 * In Arraylist duplicates are allowed , Insertion order is
 		 * preserved,Heterogeneous object are allowed,Null insertion is possible
 		 */
