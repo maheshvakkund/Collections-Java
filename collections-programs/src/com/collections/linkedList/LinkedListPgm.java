@@ -40,7 +40,7 @@ public class LinkedListPgm {
 		linkedList.add("java");
 		System.out.println("-----------------------------------------------------------------------------------------");
 		System.out.println(
-				"In Arraylist duplicates are allowed ,insertion order is preserved,Heterogeneous object are allowed,Null insertion is possible :"
+				"In Linked List duplicates are allowed ,insertion order is preserved,Heterogeneous object are allowed,Null insertion is possible :"
 						+ " " + linkedList);
 
 		/**
