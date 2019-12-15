@@ -17,23 +17,54 @@ public class ArrayListPgm {
 	public static void main(String[] args) {
 		ArrayList<String> list = new ArrayList<String>();
 		/**
-		 * 1)public boolean add(Object o) - Adds a single object
-		 *
-		 * 2)public void add(int index , Object o) - Adds a object at a specific index
+		 * 1)public boolean add(Object o):
 		 * 
-		 * 3)public void remove(int index) - Remove an object from the specified
-		 * position
+		 * Adds a single object
+		 */
+
+		/**
+		 * 2)public void add(int index , Object o):
 		 * 
-		 * 4)public void get(int index) - Get an object from the specified position
+		 * Adds a object at a specific index
+		 */
+
+		/**
+		 * 3)public void remove(int index):
 		 * 
-		 * 5)Object set(int index, Object o) - Set an object at the specified position
+		 * Remove an object from the specified position
+		 */
+
+		/**
+		 * 4)public void get(int index):
 		 * 
-		 * 6)boolean addAll(int position/index,Collection c) - Add a group of object
+		 * Get an object from the specified position
+		 */
+
+		/**
+		 * 5)Object set(int index, Object o):
 		 * 
-		 * 7)int indexOf(Object o)- Displays the first occurrence index of the object
+		 * Set an object at the specified position
+		 */
+
+		/**
+		 * 6)boolean addAll(int position/index,Collection c):
 		 * 
-		 * 8)int lastIndex(Object o) - Displays the last occurrence index of the object
+		 * Add a group of object
+		 */
+
+		/**
+		 * 7)int indexOf(Object o):
 		 * 
+		 * Displays the first occurrence index of the object
+		 */
+
+		/**
+		 * 8)int lastIndex(Object o):
+		 * 
+		 * Displays the last occurrence index of the object
+		 */
+
+		/**
 		 * In Arraylist duplicates are allowed , Insertion order is
 		 * preserved,Heterogeneous object are allowed,Null insertion is possible
 		 */

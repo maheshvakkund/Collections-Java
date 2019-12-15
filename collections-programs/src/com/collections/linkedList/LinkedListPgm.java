@@ -14,18 +14,42 @@ public class LinkedListPgm {
 
 		/**
 		 * LinkedList Specific methods
+		 */
+
+		/**
+		 * 1) public void addFirst(Object)
 		 * 
-		 * 1) public void addFirst(Object) -Adding the object to the first place
+		 * Adding the object to the first place
+		 */
+
+		/**
+		 * 2) public Object getFirst()
 		 * 
-		 * 2) public Object getFirst() -Retrieves the data of the first object
+		 * Retrieves the data of the first object
+		 */
+
+		/**
+		 * 3) public Object getLast()
 		 * 
-		 * 3) public Object getLast() -Retrieves the data of the last object
+		 * Retrieves the data of the last object
+		 */
+
+		/**
+		 * 4) public void addLast(Object o)
 		 * 
-		 * 4) public void addLast(Object o) -- Add the object to the last
+		 * Add the object to the last
+		 */
+
+		/**
+		 * 5) public Object removeLast()
 		 * 
-		 * 5) public Object removeLast() - remove the last object
+		 * remove the last object
+		 */
+
+		/**
+		 * 6) public Object removeFirst()
 		 * 
-		 * 6) public Object removeFirst() - remove the first object
+		 * remove the first object
 		 * 
 		 */
 

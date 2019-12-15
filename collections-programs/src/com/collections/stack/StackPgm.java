@@ -12,13 +12,21 @@ public class StackPgm {
 
 		/**
 		 * 1) public void push(Object o);
-		 * 
+		 */
+
+		/**
 		 * 2) public Object pop();
-		 * 
+		 */
+
+		/**
 		 * 3) public Object peek();
-		 * 
+		 */
+
+		/**
 		 * 4) public boolean empty();
-		 * 
+		 */
+
+		/**
 		 * 5) public int search(Object o);
 		 */
 		Stack<Object> s = new Stack<>();

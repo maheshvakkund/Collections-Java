@@ -12,31 +12,54 @@ public class VectorPgm {
 
 		/***
 		 * Vector Specific methods
-		 * 
+		 */
+
+		/**
 		 * 1) public addElement(Object o);
-		 * 
+		 */
+
+		/**
 		 * 2) public removeElement(Object o);
-		 * 
+		 */
+
+		/**
 		 * 3) public remove(int index);
-		 * 
+		 */
+
+		/**
 		 * 4) public removeAllElements();
-		 * 
+		 */
+
+		/**
 		 * 5) public removeElementAt(int index);
-		 * 
+		 */
+
+		/**
 		 * 6) public void clear();
-		 * 
+		 */
+
+		/**
 		 * 7) Object elementAt(int index);
-		 * 
+		 */
+
+		/**
 		 * 8) Object firstElement();
-		 * 
+		 */
+
+		/**
 		 * 9) Object lastElement();
-		 * 
+		 */
+
+		/**
 		 * 10) public int size();
-		 * 
+		 */
+
+		/**
 		 * 11) public int capacity();
-		 * 
+		 */
+
+		/**
 		 * 12) Enumeration elements();
-		 * 
 		 */
 
 		Vector<Object> v = new Vector<>();
