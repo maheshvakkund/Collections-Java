@@ -13,30 +13,49 @@ public class IteratorPgm {
 	 * universal cursor
 	 *
 	 * 2)By using iterator we can perfrom both read and remove objects
-	 * 
+	 */
+
+	/**
 	 * Methods Specific to Iterator:
+	 */
+
+	/**
+	 * 1)public boolean hasNext():
 	 * 
-	 * ============================
-	 * 
-	 * 1)public boolean hasNext();
-	 * 
+	 * Returns true if this list iterator has more elements when traversing the list
+	 * in the forward direction.
+	 *
+	 */
+
+	/**
 	 * 2)public Object next();
 	 * 
+	 * Returns the next element in the list and advances the cursor position in the
+	 * forward direction.
+	 */
+
+	/**
 	 * 3)public void remove();
 	 * 
+	 * Removes from the list the last element that was returned by next() or
+	 * previous()
+	 */
+
+	/**
 	 * Limitations of Iterators:
 	 * 
 	 * ============================
 	 * 
-	 * 1)We can always move towards the forward direction and we cant move towards
+	 * 1)We can always move towards the forward direction and we can't move towards
 	 * the backward direction,these are single direction cursors and not
-	 * bi-directional
+	 * Bidirectional
 	 * 
 	 * 2)By using iterator we can perform only read and rename operations and we
-	 * cant perform replacement and addition of new objects
+	 * can't perform replacement and addition of new objects
 	 * 
 	 * 3)To overcome these limitations we should go for listIterator
 	 */
+
 	public static void main(String[] args) {
 		ArrayList<Integer> list = new ArrayList<>();
 		int i = 0;

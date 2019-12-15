@@ -14,16 +14,27 @@ public class EnumerationPgm {
 	 * 
 	 * 2)We can use/Create Enumeration object by using elements methods of vector
 	 * class.
-	 *
+	 */
+
+	/**
 	 * Specific methods in Enumeration
-	 * ========================================================
+	 */
+
+	/**
 	 * 
-	 * 1)public boolean hasMoreElements() : Tests if this enumeration contains more
-	 * elements.
-	 *
-	 * 2)public Object nextElement() : Returns the next element of this enumeration
-	 * if this enumeration object has at least one more element to provide.
-	 *
+	 * 1)public boolean hasMoreElements() :
+	 * 
+	 * Tests if this enumeration contains more elements.
+	 */
+
+	/**
+	 * 2)public Object nextElement() :
+	 * 
+	 * Returns the next element of this enumeration if this enumeration object has
+	 * at least one more element to provide.
+	 */
+
+	/**
 	 * Limitations of Enumeration
 	 * ==========================================================
 	 * 
